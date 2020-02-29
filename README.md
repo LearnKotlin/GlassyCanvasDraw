@@ -1,2 +1,3 @@
 # GlassyCanvasDraw
-canvas Drawing - Glassy rendering
+
+Canvas Drawing Application to view a portion of image in different mode.
